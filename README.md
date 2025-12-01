@@ -18,6 +18,15 @@ I am strongly interested in explainability, clinical NLP and the integration of 
 
 ---
 
+### 🧾 Publications
+- **The Application of Deep Learning Tools on Medical Reports to Optimize the Input of an Atrial-Fibrillation-Recurrence Predictive Model.** *Journal of Clinical Medicine, 2025.* Alain García-Olea*, Ane G. Domingo-Aldama*, Marcos Merino, Koldo Gojenola, Josu Goikoetxea, Aitziber Atutxa, José Miguel Ormaetxe
+- **ArgHiTZ at ArchEHR-QA 2025: A Two-Step Divide and Conquer Approach to Patient Question Answering for Top Factuality.** *Proceedings of the 24th Workshop on Biomedical Language Processing (Shared Tasks), 2025.* Adrian Cuadron Cortes, Aimar Sagasti, Maitane Urruela, Iker De la Iglesia, Ane G. Domingo-Aldama, Aitziber Atutxa Salazar, Josu Goikoetxea, Ander Barrena
+- **Automating Early Disease Prediction Via Structured and Unstructured Clinical Data.** *Upon acceptance, 2025.* Ane G. Domingo-Aldama, Marcos Merino, Alain García-Olea, Koldo Gojenola, Josu Goikoetxea, Aitziber Atutxa
+- **Leveraging Electronic Health Records for Atrial Fibrillation Cohort Generation.** *Upon acceptance, 2025.* Ane G. Domingo-Aldama, Marcos Merino, Alain García-Olea, Koldo Gojenola, Josu Goikoetxea, Aitziber Atutxa
+- **Explainability-Guided Large Language Models for Predicting Atrial Fibrillation Progression in Women.** *Upon acceptance, 2025.* Ane G. Domingo-Aldama, Alain García-Olea, Koldo Gojenola, Josu Goikoetxea, Aitziber Atutxa
+ 
+---
+
 ### 🎓 Education
 
 - **PhD in Natural Language Processing** — *University of the Basque Country (EHU)* *(In progress)*  
@@ -34,15 +43,6 @@ I am strongly interested in explainability, clinical NLP and the integration of 
 - Natural Language Processing (NLP)  
 - Machine Learning & Data Science  
 
----
-
-### 🧾 Publications
-- **The Application of Deep Learning Tools on Medical Reports to Optimize the Input of an Atrial-Fibrillation-Recurrence Predictive Model.** *Journal of Clinical Medicine, 2025.* Alain García-Olea*, Ane G. Domingo-Aldama*, Marcos Merino, Koldo Gojenola, Josu Goikoetxea, Aitziber Atutxa, José Miguel Ormaetxe
-- **ArgHiTZ at ArchEHR-QA 2025: A Two-Step Divide and Conquer Approach to Patient Question Answering for Top Factuality.** *Proceedings of the 24th Workshop on Biomedical Language Processing (Shared Tasks), 2025.* Adrian Cuadron Cortes, Aimar Sagasti, Maitane Urruela, Iker De la Iglesia, Ane G. Domingo-Aldama, Aitziber Atutxa Salazar, Josu Goikoetxea, Ander Barrena
-- **Automating Early Disease Prediction Via Structured and Unstructured Clinical Data.** *Upon acceptance, 2025.* Ane G. Domingo-Aldama, Marcos Merino, Alain García-Olea, Koldo Gojenola, Josu Goikoetxea, Aitziber Atutxa
-- **Leveraging Electronic Health Records for Atrial Fibrillation Cohort Generation.** *Upon acceptance, 2025.* Ane G. Domingo-Aldama, Marcos Merino, Alain García-Olea, Koldo Gojenola, Josu Goikoetxea, Aitziber Atutxa
-- **Explainability-Guided Large Language Models for Predicting Atrial Fibrillation Progression in Women.** *Upon acceptance, 2025.* Ane G. Domingo-Aldama, Alain García-Olea, Koldo Gojenola, Josu Goikoetxea, Aitziber Atutxa
- 
 ---
 
 ### 📬 Contact
