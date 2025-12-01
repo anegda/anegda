@@ -1,22 +1,28 @@
 # 👩🏻‍💻 Ane G. Domingo-Aldama
-**PhD Student | University of the Basque Country (UPV/EHU)**  
+**PhD Student | University of the Basque Country (EHU)**  
 *Natural Language Processing & Artificial Intelligence Research*
 
 ---
 
 ### About me
 
-I am a PhD student at the **University of the Basque Country (UPV/EHU)** specializing in **Natural Language Processing (NLP)** and **Artificial Intelligence applications in medicine**.  
+Doctoral researcher in **Language Analysis and Processing** at the **University of the Basque Country (EHU)**, working within the **HiTZ Zentroa** research group.
 
-My research focuses on **explainable AI models** and their use in understanding and predicting **Atrial Fibrillation progression and cardiovascular risk**, combining **machine learning** and **medical data analysis** to enhance interpretability and clinical reliability.
+My research focuses on the **early explanatory prediction of cardiovascular risk**, combining Machine Learning, Natural Language Processing and clinical expertise to improve the early diagnosis of cardiovascular diseases, especially Atrial Fibrillation.
+
+I work with structured Electronic Health Records and free text clinical narratives, applying explainability techniques to develop transparent and clinically meaningful AI systems. My goal is to create reliable models that can support real clinical decision making.
+
+I also have experience in medical machine translation and have contributed to shared tasks in biomedical question answering. My research has resulted in several publications on atrial fibrillation prediction.
+
+I am strongly interested in explainability, clinical NLP and the integration of diverse biomedical data sources for trustworthy healthcare AI.
 
 ---
 
 ### 🎓 Education
 
-- **PhD in Natural Language Processing** — *University of the Basque Country (UPV/EHU)* *(In progress)*  
-- **Master in Natural Language Analysis and Processing**  
-- **Degree in Computer Engineering (Information Systems and Management)**  
+- **PhD in Natural Language Processing** — *University of the Basque Country (EHU)* *(In progress)*  
+- **Master in Natural Language Analysis and Processing**  — *University of the Basque Country (EHU)*
+- **Degree in Computer Engineering (Information Systems and Management)**  — *University of the Basque Country (EHU)*
 
 ---
 
@@ -31,40 +37,21 @@ My research focuses on **explainable AI models** and their use in understanding 
 ---
 
 ### 🧾 Publications
-
-*(Add your selected publications here — formatted in APA, BibTeX, or as bullet points)*  
-> Example:  
-> - Doe, J., & Smith, A. (2023). *Explainable AI for Cardiac Disease Progression Prediction*. Journal of Biomedical Informatics.  
-
----
-
-### 📊 Scholar Metrics
-
-#### 🔹 Google Scholar Citations (updated automatically)
-
-[![scholar stats](https://github.com/TU_USUARIO/scholar-readme-stats/workflows/Google%20Scholar%20Stats/badge.svg)](https://github.com/TU_USUARIO/scholar-readme-stats/actions)
-
-![Google Scholar Stats](https://scholar-readme-stats.vercel.app/api?user=TU_GOOGLE_SCHOLAR_ID)
-
-> 💡 Replace `TU_GOOGLE_SCHOLAR_ID` with your Scholar profile ID (the part after `user=` in your profile URL).  
-> Example: for `https://scholar.google.com/citations?user=abcd1234`, use `abcd1234`.
-
+- The Application of Deep Learning Tools on Medical Reports to Optimize the Input of an Atrial-Fibrillation-Recurrence Predictive Model. *Journal of Clinical Medicine, 2025.* Alain García-Olea*, Ane G. Domingo-Aldama*, Marcos Merino, Koldo Gojenola, Josu Goikoetxea, Aitziber Atutxa, José Miguel Ormaetxe
+- ArgHiTZ at ArchEHR-QA 2025: A Two-Step Divide and Conquer Approach to Patient Question Answering for Top Factuality. *Proceedings of the 24th Workshop on Biomedical Language Processing (Shared Tasks), 2025.* Adrian Cuadron Cortes, Aimar Sagasti, Maitane Urruela, Iker De la Iglesia, Ane G. Domingo-Aldama, Aitziber Atutxa Salazar, Josu Goikoetxea, Ander Barrena
+- Automating Early Disease Prediction Via Structured and Unstructured Clinical Data. *Upon acceptance, 2025.* Ane G. Domingo-Aldama, Marcos Merino, Alain García-Olea, Koldo Gojenola, Josu Goikoetxea, Aitziber Atutxa
+- Leveraging Electronic Health Records for Atrial Fibrillation Cohort Generation. *Upon acceptance, 2025.* Ane G. Domingo-Aldama, Marcos Merino, Alain García-Olea, Koldo Gojenola, Josu Goikoetxea, Aitziber Atutxa
+- Explainability-Guided Large Language Models for Predicting Atrial Fibrillation Progression in Women. *Upon acceptance, 2025.* Ane G. Domingo-Aldama, Alain García-Olea, Koldo Gojenola, Josu Goikoetxea, Aitziber Atutxa
+ 
 ---
 
 ### 📬 Contact
 
 - 📧 Email: [ane.garciad@ehu.eus](mailto:ane.garciad@ehu.eus)  
-- 🌐 Website: [tu_web_personal.com](#)  
 - 🔗 ORCID: [0009-0000-8202-1099](https://orcid.org/0009-0000-8202-1099)  
-- 💼 LinkedIn: [Tu perfil](#)  
-- 📖 Google Scholar: [Tu perfil](https://scholar.google.com/citations?user=TU_GOOGLE_SCHOLAR_ID)
+- 💼 LinkedIn: [Ane García Domingo-Aldama](https://www.linkedin.com/in/ane-garc%C3%ADa-domingo-aldama/)  
+- 📖 Google Scholar: [Ane G. Domingo-Aldama](https://scholar.google.com/citations?user=TU_GOOGLE_SCHOLAR_ID](https://scholar.google.es/citations?user=U3EfoCAAAAAJ&hl))
 
 ---
 
-### ⚙️ GitHub Stats *(optional)*
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default)
-
----
-
-📍 *Last updated: {{DATE}}*
+📍 *Last updated: {{01/12/2025}}*
