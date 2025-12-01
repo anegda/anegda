@@ -1,10 +1,10 @@
-# 👩🏻‍💻 Ane G. Domingo-Aldama
+# Ane G. Domingo-Aldama
 **PhD Student | University of the Basque Country (EHU)**  
 *Natural Language Processing & Artificial Intelligence Research*
 
 ---
 
-### About me
+### 👩🏻‍💻 About me
 
 Doctoral researcher in **Language Analysis and Processing** at the **University of the Basque Country (EHU)**, working within the **HiTZ Zentroa** research group.
 
