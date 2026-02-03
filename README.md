@@ -19,10 +19,10 @@ I am strongly interested in explainability, clinical NLP and the integration of 
 ---
 
 ### 🧾 Publications
-- **The Application of Deep Learning Tools on Medical Reports to Optimize the Input of an Atrial-Fibrillation-Recurrence Predictive Model.** *Journal of Clinical Medicine, 2025.* Alain García-Olea*, Ane G. Domingo-Aldama*, Marcos Merino, Koldo Gojenola, Josu Goikoetxea, Aitziber Atutxa, José Miguel Ormaetxe
-- **ArgHiTZ at ArchEHR-QA 2025: A Two-Step Divide and Conquer Approach to Patient Question Answering for Top Factuality.** *Proceedings of the 24th Workshop on Biomedical Language Processing (Shared Tasks), 2025.* Adrian Cuadron Cortes, Aimar Sagasti, Maitane Urruela, Iker De la Iglesia, Ane G. Domingo-Aldama, Aitziber Atutxa Salazar, Josu Goikoetxea, Ander Barrena
+- **Leveraging Electronic Health Records for Atrial Fibrillation Cohort Generation.** *Health Information Science and Systems, 2026.* Ane G. Domingo-Aldama, Marcos Merino, Alain García-Olea, Koldo Gojenola, Josu Goikoetxea, Aitziber Atutxa [Link](https://doi.org/10.1007/s13755-025-00415-w)
+- **The Application of Deep Learning Tools on Medical Reports to Optimize the Input of an Atrial-Fibrillation-Recurrence Predictive Model.** *Journal of Clinical Medicine, 2025.* Alain García-Olea*, Ane G. Domingo-Aldama*, Marcos Merino, Koldo Gojenola, Josu Goikoetxea, Aitziber Atutxa, José Miguel Ormaetxe [Link](https://doi.org/10.3390/jcm14072297)
+- **ArgHiTZ at ArchEHR-QA 2025: A Two-Step Divide and Conquer Approach to Patient Question Answering for Top Factuality.** *Proceedings of the 24th Workshop on Biomedical Language Processing (Shared Tasks), 2025.* Adrian Cuadron Cortes, Aimar Sagasti, Maitane Urruela, Iker De la Iglesia, Ane G. Domingo-Aldama, Aitziber Atutxa Salazar, Josu Goikoetxea, Ander Barrena [Link](https://doi.org/10.18653/v1/2025.bionlp-share.1)
 - **Automating Early Disease Prediction Via Structured and Unstructured Clinical Data.** *Upon acceptance, 2025.* Ane G. Domingo-Aldama, Marcos Merino, Alain García-Olea, Koldo Gojenola, Josu Goikoetxea, Aitziber Atutxa
-- **Leveraging Electronic Health Records for Atrial Fibrillation Cohort Generation.** *Upon acceptance, 2025.* Ane G. Domingo-Aldama, Marcos Merino, Alain García-Olea, Koldo Gojenola, Josu Goikoetxea, Aitziber Atutxa
 - **Explainability-Guided Large Language Models for Predicting Atrial Fibrillation Progression in Women.** *Upon acceptance, 2025.* Ane G. Domingo-Aldama, Alain García-Olea, Koldo Gojenola, Josu Goikoetxea, Aitziber Atutxa
  
 ---
