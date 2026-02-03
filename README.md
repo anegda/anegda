@@ -54,4 +54,4 @@ I am strongly interested in explainability, clinical NLP and the integration of 
 
 ---
 
-📍 *Last updated: {{01/12/2025}}*
+📍 *Last updated: {{03/02/2026}}*
